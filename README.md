@@ -23,6 +23,15 @@ Dashboard interaction <a href= "https://github.com/Me1rem/Pixar-challenge-dashbo
 <a href="https://github.com/Me1rem/Pixar-challenge-dashboard/blob/main/Screenshot%202025-03-28%20170625.png">Key insights</a>
 <a href="https://github.com/Me1rem/Pixar-challenge-dashboard/blob/main/Screenshot%202025-03-28%20144048.png">Recommendation</a>
 
+(https://github.com/Me1rem/Pixar-challenge-dashboard/blob/main/Screenshot%202025-03-28%20143249.png)
+(https://github.com/Me1rem/Pixar-challenge-dashboard/blob/main/Screenshot%202025-03-28%20143324.png)
+<a href="https://github.com/Me1rem/Pixar-challenge-dashboard/blob/main/Screenshot%202025-03-28%20143355.png">Overview 2</a>
+<a href="https://github.com/Me1rem/Pixar-challenge-dashboard/blob/main/Screenshot%202025-03-28%20143606.png">Overview 3</a>
+<a href="https://github.com/Me1rem/Pixar-challenge-dashboard/blob/main/Screenshot%202025-03-28%20143707.png">Overview 4</a>
+<a href="https://github.com/Me1rem/Pixar-challenge-dashboard/blob/main/Screenshot%202025-03-28%20170849.png">Key Insights</a>
+<a href="https://github.com/Me1rem/Pixar-challenge-dashboard/blob/main/Screenshot%202025-03-28%20170625.png">Key insights</a>
+<a href="https://github.com/Me1rem/Pixar-challenge-dashboard/blob/main/Screenshot%202025-03-28%20144048.png">Recommendation</a>
+
 ## Key Insights
 AWARDS AND RECOGNITION
 1. The film with the highest nomination is WALL-E

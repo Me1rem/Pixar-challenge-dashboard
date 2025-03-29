@@ -36,11 +36,16 @@ REVENUE AND EARNINGS
 2. Turning red is the lowest performance profit performing film
 3.Using this ROI category,where:
 
-Less than 0%-Flop 
+Less than 0%-Flop
+
 0% - 49%-Low Profit
-50% - 99%Moderate Success
+
+50% - 99%-Moderate Success
+
 100% - 299%-Hit 
+
 300% - 499%-Super Hit
+
 500% and above-Blockbuster
 
 From the KPIs,we can see that the average ROI is 318.23% this indicates that the average films in pixar were highly profitable and the negative profits were balanced out because others had even higher returns.
@@ -50,32 +55,42 @@ From the KPIs,we can see that the average ROI is 318.23% this indicates that the
 
 CRITICS
 1. Using this Rotten tomatoes critic score rating scale,where:
-2. 
+
 0-59-Rotten
+
 60-74-Fresh
+
 75 above-Certified fresh
    
 And since pixar film averaged 88.4,It shows that the movies gained strong approval in total.From the charts,we had only one rotten(that is only one movie received negative review) but majority received positive review ang gained strong approval.
 4. Using this Metecritic critic score rating scale,where:
 
 < 40-Unfavorable reviews
+
 40-60-Good
+
 61-80-Generally favorable reviews
+
 81-100-Universal acclaim
 
 Although the metacritic score of pixar films averaged  78.14,this shows that the movie received generally favorable reviews and from the charts it had more universal acclaimed movies.
 3.Using this IMDB score rating scale,where:
 
 6.0-6.9-Good
+
 7.0-7.9-Very good
+
 8.0-8.9-Excellent
+
 >=9.0-Materpiece
->
+
 The IMDB Score averaged 7.54 which indicates that pixar films are very good.
 4. . Using this Cinema score rating scale,where:
 
 A+-Exceptional audience response
+
 A-Very positive audience response
+
 A--Generally favorable but with some minor issues
 
 Pixar films have more of its films on cinema score A ,meaning it has a high positive audience response,it has a high word of mouth and a long theatrcal run.

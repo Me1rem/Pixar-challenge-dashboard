@@ -25,6 +25,7 @@ Dashboard interaction <a href= "https://github.com/Me1rem/Pixar-challenge-dashbo
 
 ## Key Insights
 AWARDS AND RECOGNITION
+
 The film with the highest nomination is WALL-E
 
 The film that won the most awards are Coco,Up,Toy Story 3,Soul,The Incredibles.
@@ -64,6 +65,7 @@ There are more films rating  with parental guidance compared to General amd film
 There was a negative decline in the profit earned in the year 2020,2021 and 2022.This could possibly be attributed to the coronavirus pandemic.But the year 2024 had the hghest profit earned in pixar films.
 
 CRITICS
+
 Using this Rotten tomatoes critic score rating scale,where:
 
 0-59-Rotten

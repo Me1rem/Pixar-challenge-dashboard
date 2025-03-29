@@ -31,7 +31,7 @@ AWARDS AND RECOGNITION
    
 3. Only Toy story 1 won with special achievement
    
-4.There are more films rating  with parental guidance compared General
+ 4.There are more films rating  with parental guidance compared General
 
 5. Movies having run time of 70+ are called feature films and pixar film data has all of it's films as feature films
    

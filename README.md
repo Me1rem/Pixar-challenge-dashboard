@@ -26,12 +26,12 @@ Dashboard interaction <a href= "https://github.com/Me1rem/Pixar-challenge-dashbo
 ## Key Insights
 AWARDS AND RECOGNITION
 1. The film with the highest nomination is WALL-E
-   
+
 2. The film that won the most awards are Coco,Up,Toy Story 3,Soul,The Incredibles.
-   
+
 3. Only Toy story 1 won with special achievement
-   
- 4.There are more films rating  with parental guidance compared General
+
+4.There are more films rating  with parental guidance compared General
 
 5. Movies having run time of 70+ are called feature films and pixar film data has all of it's films as feature films
    
@@ -40,7 +40,7 @@ REVENUE AND EARNINGS
 1.Inside out 2 is the highest grossing profit performance film
 
 2. Turning red is the lowest performance profit performing film
-   
+
 3.Using this ROI category,where:
 
 Less than 0%-Flop
@@ -58,7 +58,7 @@ Less than 0%-Flop
 From the KPIs,we can see that the average ROI is 318.23% this indicates that the average films in pixar were highly profitable and the negative profits were balanced out because others had even higher returns.
 
 4. The year 2024 recorded the highest profit in the pixar films.
-   
+
 5.There are more films rating  with parental guidance compared to General amd films with parental guidance made more profits $112.46 M hIgher than those of general this could indicate that the PG films have bigger production budget  compared to the G rating  allowing for a better animation,quality and marketing campaigns which inturn brought in higher box office earning.
 
 6. There was a negative decline in the profit earned in the year 2020,2021 and 2022.This could possibly be attributed to the coronavirus pandemic.But the year 2024 had the hghest profit earned in pixar films.
@@ -94,7 +94,7 @@ Although the metacritic score of pixar films averaged  78.14,this shows that the
 
 8.0-8.9-Excellent
 
-> or equal to 9.0-Materpiece
+greater or equal to 9.0-Materpiece
 
 The IMDB Score averaged 7.54 which indicates that pixar films are very good.
 

@@ -25,23 +25,23 @@ Dashboard interaction <a href= "https://github.com/Me1rem/Pixar-challenge-dashbo
 
 ## Key Insights
 AWARDS AND RECOGNITION
-1. The film with the highest nomination is WALL-E
+The film with the highest nomination is WALL-E
 
-2. The film that won the most awards are Coco,Up,Toy Story 3,Soul,The Incredibles.
+The film that won the most awards are Coco,Up,Toy Story 3,Soul,The Incredibles.
 
-3. Only Toy story 1 won with special achievement
+Only Toy story 1 won with special achievement
 
-4.There are more films rating  with parental guidance compared General
+There are more films rating  with parental guidance compared General
 
-5. Movies having run time of 70+ are called feature films and pixar film data has all of it's films as feature films
+Movies having run time of 70+ are called feature films and pixar film data has all of it's films as feature films
    
 REVENUE AND EARNINGS
 
-1.Inside out 2 is the highest grossing profit performance film
+Inside out 2 is the highest grossing profit performance film
 
-2. Turning red is the lowest performance profit performing film
+Turning red is the lowest performance profit performing film
 
-3.Using this ROI category,where:
+Using this ROI category,where:
 
 Less than 0%-Flop
 
@@ -57,14 +57,14 @@ Less than 0%-Flop
 
 From the KPIs,we can see that the average ROI is 318.23% this indicates that the average films in pixar were highly profitable and the negative profits were balanced out because others had even higher returns.
 
-4. The year 2024 recorded the highest profit in the pixar films.
+The year 2024 recorded the highest profit in the pixar films.
 
-5.There are more films rating  with parental guidance compared to General amd films with parental guidance made more profits $112.46 M hIgher than those of general this could indicate that the PG films have bigger production budget  compared to the G rating  allowing for a better animation,quality and marketing campaigns which inturn brought in higher box office earning.
+There are more films rating  with parental guidance compared to General amd films with parental guidance made more profits $112.46 M hIgher than those of general this could indicate that the PG films have bigger production budget  compared to the G rating  allowing for a better animation,quality and marketing campaigns which inturn brought in higher box office earning.
 
-6. There was a negative decline in the profit earned in the year 2020,2021 and 2022.This could possibly be attributed to the coronavirus pandemic.But the year 2024 had the hghest profit earned in pixar films.
+There was a negative decline in the profit earned in the year 2020,2021 and 2022.This could possibly be attributed to the coronavirus pandemic.But the year 2024 had the hghest profit earned in pixar films.
 
 CRITICS
-1. Using this Rotten tomatoes critic score rating scale,where:
+Using this Rotten tomatoes critic score rating scale,where:
 
 0-59-Rotten
 
@@ -74,7 +74,7 @@ CRITICS
    
 And since pixar film averaged 88.4,It shows that the movies gained strong approval in total.From the charts,we had only one rotten(that is only one movie received negative review) but majority received positive review and gained strong approval.
 
-2. Using this Metecritic critic score rating scale,where:
+Using this Metecritic critic score rating scale,where:
 
 < 40-Unfavorable reviews
 
@@ -86,7 +86,7 @@ And since pixar film averaged 88.4,It shows that the movies gained strong approv
 
 Although the metacritic score of pixar films averaged  78.14,this shows that the movie received generally favorable reviews and from the charts it had more universal acclaimed movies.
 
-3.Using this IMDB score rating scale,where:
+Using this IMDB score rating scale,where:
 
 6.0-6.9-Good
 
@@ -98,7 +98,7 @@ greater or equal to 9.0-Materpiece
 
 The IMDB Score averaged 7.54 which indicates that pixar films are very good.
 
-4. . Using this Cinema score rating scale,where:
+Using this Cinema score rating scale,where:
 
 A+-Exceptional audience response
 
@@ -108,11 +108,11 @@ A--Generally favorable but with some minor issues
 
 Pixar films have more of its films on cinema score A ,meaning it has a high positive audience response,it has a high word of mouth and a long theatrcal run.
 
-5.Toy story 1 and 2 had the highest rotten tomatoes score(that is,from both critic and audience)
+Toy story 1 and 2 had the highest rotten tomatoes score(that is,from both critic and audience)
 
-6.Wall-E and Coco had the highest IMDB score(Based on user ratings)
+Wall-E and Coco had the highest IMDB score(Based on user ratings)
 
-7. Ratatouile has the highestt number of metacritic score(Based on only critics)
+Ratatouile has the highestt number of metacritic score(Based on only critics)
 
 PEOPLE
 

@@ -94,7 +94,7 @@ Although the metacritic score of pixar films averaged  78.14,this shows that the
 
 8.0-8.9-Excellent
 
->=9.0-Materpiece
+> or equal to 9.0-Materpiece
 
 The IMDB Score averaged 7.54 which indicates that pixar films are very good.
 
@@ -115,24 +115,34 @@ Pixar films have more of its films on cinema score A ,meaning it has a high posi
 7. Ratatouile has the highestt number of metacritic score(Based on only critics)
 
 PEOPLE
+
 Andrew Straton has the highest number of roles this shows how versatile and skillful he is,He is the most resourced individual in pixar films
 
 ## Recommendations
 1. Awards & Recognition
+
 Leverage Award-Winning Films: Given that films like Coco, Up, Toy Story 3, Soul, and The Incredibles won the most awards, Pixar should analyze the factors contributing to their success (storytelling, animation quality, music, or themes) and apply these learnings to future productions.
+
 Increase Nominations: Since WALL-E received the highest nominations, Pixar should focus on producing films that align with critical and industry preferences to increase future award recognition.
 
 2. Revenue & Earnings
+   
 Invest in High-ROI Film Strategies: With an average ROI of 318.23%, Pixar films are highly profitable. However, Inside Out 2 performed exceptionally well, while Turning Red had the lowest profit. Analyzing the differences in marketing, production budget, and audience engagement can guide future film investments.
+
 Focus on PG-Rated Films: PG-rated films outperformed G-rated ones by $112.46M, likely due to bigger budgets for animation, quality, and marketing. Investing more in PG-rated films may yield higher box office returns.
 
 3. Critics & Audience Reception
+
 Enhance Universal Appeal: With an average Rotten Tomatoes score of 88.4 and Metacritic score of 78.14, Pixar films are well-received. However, ensuring that future films maintain this standard by incorporating strong narratives, emotional depth, and high-quality animation is crucial.
+
 Improve Underperforming Film Categories: The presence of one “Rotten” film suggests room for improvement. Conducting audience sentiment analysis can help identify common criticisms and address them in future projects.
+
 Encourage Strong Word-of-Mouth Marketing: Since Pixar films score highly on CinemaScore ratings (mostly A), the company should capitalize on audience enthusiasm by promoting positive word-of-mouth and extended theatrical runs.
 
-4. People & Talent Utilization
+4. People & Talent Utilizatio
+   
 Maximize Talent Like Andrew Stanton: As the most versatile Pixar filmmaker, Andrew Stanton’s expertise should be leveraged in future productions. He can mentor new talent, oversee key projects, or lead experimental storytelling techniques.
+
 Expand Director & Writer Diversity: While Stanton has played a key role, Pixar should also nurture and showcase new talent to ensure fresh perspectives and innovative storytelling in upcoming films.
    
 

@@ -15,7 +15,7 @@ For the Maven Pixar Challenge, I put mydata storytelling skills to work by creat
 Dashboard interaction <a href= "https://github.com/Me1rem/Pixar-challenge-dashboard/blob/main/Maven%20challenge%20AROME(AutoRecovered).xlsx">View Dashboard</a>
 ## Dashboard 
 <a href="https://github.com/Me1rem/Pixar-challenge-dashboard/blob/main/Screenshot%202025-03-28%20143249.png">Home Page</a>
-<a href=" https://github.com/Me1rem/Pixar-challenge-dashboard/blob/main/Screenshot%202025-03-28%20143324.png">Overview</a>
+<a href="https://github.com/Me1rem/Pixar-challenge-dashboard/blob/main/Screenshot%202025-03-28%20143324.png">Overview </a>
 <a href="https://github.com/Me1rem/Pixar-challenge-dashboard/blob/main/Screenshot%202025-03-28%20143355.png">Overview 2</a>
 <a href="https://github.com/Me1rem/Pixar-challenge-dashboard/blob/main/Screenshot%202025-03-28%20143606.png">Overview 3</a>
 <a href="https://github.com/Me1rem/Pixar-challenge-dashboard/blob/main/Screenshot%202025-03-28%20143707.png">Overview 4</a>

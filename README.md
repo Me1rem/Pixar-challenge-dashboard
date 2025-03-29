@@ -139,7 +139,7 @@ Improve Underperforming Film Categories: The presence of one “Rotten” film s
 
 Encourage Strong Word-of-Mouth Marketing: Since Pixar films score highly on CinemaScore ratings (mostly A), the company should capitalize on audience enthusiasm by promoting positive word-of-mouth and extended theatrical runs.
 
-4. People & Talent Utilizatio
+4. People & Talent Utilization
    
 Maximize Talent Like Andrew Stanton: As the most versatile Pixar filmmaker, Andrew Stanton’s expertise should be leveraged in future productions. He can mentor new talent, oversee key projects, or lead experimental storytelling techniques.
 

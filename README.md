@@ -36,6 +36,7 @@ AWARDS AND RECOGNITION
 5. Movies having run time of 70+ are called feature films and pixar film data has all of it's films as feature films
    
 REVENUE AND EARNINGS
+
 1.Inside out 2 is the highest grossing profit performance film
 
 2. Turning red is the lowest performance profit performing film
